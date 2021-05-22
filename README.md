@@ -2,7 +2,7 @@
  
  <p align="center">
   <kbd>
-    <img max-width="50" style="border-radius: 5px" max-height="25" src= "assets/img/tiny.png" alt="Intro">
+    <img max-width="50" style="border-radius: 5px" max-height="25" src= "api-nodejs-mongodb-tiny.link/Assent/img/tiny.png" alt="Intro">
   </kbd>
 
 </h1>
@@ -11,9 +11,9 @@
  <p align="center"> O Mais prático encurtador de links que você pode ter!.</p>
  
 <p align="center">
- <img src="https://img.shields.io/github/issues/https://github.com/NadyLuna/Tiny.Lin---BackEnd">
- <img src="https://img.shields.io/github/forks/https://github.com/NadyLuna/Tiny.Lin---BackEnd" >  
- <img src="https://img.shields.io/github/stars/https://github.com/NadyLuna/Tiny.Lin---BackEnd" > 
+ <img src="https://img.shields.io/github/issues/https://github.com/NadyLuna/Tiny.Lin">
+ <img src="https://img.shields.io/github/forks/https://github.com/NadyLuna/Tiny.Lin">  
+ <img src="https://img.shields.io/github/stars/https://github.com/NadyLuna/Tiny.Lin"> 
  </p>
 
 
