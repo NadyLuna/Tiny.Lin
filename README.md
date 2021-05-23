@@ -109,6 +109,7 @@ mongoose.connect(`${process.env.MONGODB_URL}`, {
 </p>
 
 ### :handshake: **contributors**
+#### Grupo 1
 - [x] [Maay](https://github.com/maaysiq)
 - [x] [Hudson](https://github.com/HUDEVBR)
 
