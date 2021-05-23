@@ -14,14 +14,6 @@ const userSchema = new mongoose.Schema({
         required: true,
         select: false,
     },
-    token: {
-        type: String,
-        select: false,
-    },
-    tokenExpires: {
-        type: String,
-        select: false,
-    },
     name: {
         type: String,
         required: true,
@@ -35,14 +27,6 @@ const userSchema = new mongoose.Schema({
     timestamps: true,
     }
 );
-
-userSchema.pre('save', async function (next) {
-    console.log(this.password);
-    const hashPass = await bcrypt.hash(this.password, 10);
-    this.password = hashPass;
-
-    next();
-});
 
 const userModel = mongoose.model('User', userSchema);
 
