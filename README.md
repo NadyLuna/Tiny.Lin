@@ -2,7 +2,7 @@
  
  <p align="center">
   <kbd>
-    <img max-width="50" style="border-radius: 5px" max-height="25" src= "api-nodejs-mongodb-tiny.link/Assent/img/tiny.png" alt="Intro">
+    <img width="150" style="border-radius: 5px" height="150" src= "api-nodejs-mongodb-tiny.link/Assent/img/tiny.png" alt="Intro">
   </kbd>
 
 </h1>
@@ -110,6 +110,7 @@ mongoose.connect(`${process.env.MONGODB_URL}`, {
 
 ### :handshake: **contributors**
 - [x] [Maay](https://github.com/maaysiq)
+- [x] [Hudson](https://github.com/HUDEVBR)
 
 ### :handshake: **Contributing**
 
