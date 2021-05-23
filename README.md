@@ -112,6 +112,7 @@ mongoose.connect(`${process.env.MONGODB_URL}`, {
 #### Grupo 1
 - [x] [Maay](https://github.com/maaysiq)
 - [x] [Hudson](https://github.com/HUDEVBR)
+- [x] [Nady Luna](https://github.com/NadyLuna)
 
 ### :handshake: **Contributing**
 
